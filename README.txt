@@ -39,7 +39,7 @@ logs-YYYY-MM-DD/
 ## ⚙️ Pasos para la Ejecución
 
 ### 1. Clona el repositorio
-git clone <URL-del-repositorio>
+git clone https://github.com/MauricioTinco/Optimizacion-captura-registros.git
 cd <carpeta-del-repositorio>
 ###2. Da permisos de ejecución al script
 chmod +x snapshot.sh
